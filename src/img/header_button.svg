@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 239 64" width="239" height="64">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffc02a } 
+	</style>
+	<path id="Прямоугольник, скругл. углы 763" class="shp0" d="M32.5 1L207.5 1C224.9 1 239 15.1 239 32.5C239 49.9 224.9 64 207.5 64L32.5 64C15.1 64 1 49.9 1 32.5C1 15.1 15.1 1 32.5 1Z" />
+</svg>
